@@ -1,0 +1,9 @@
+export { HomePage } from './HomePage';
+export { ProfilePage } from './ProfilePage';
+export { AcademicPage } from './AcademicPage';
+export { StudentPage } from './StudentPage';
+export { PPDBPage } from './PPDBPage';
+export { PPDBInfoSyaratPage } from './PPDBInfoSyaratPage';
+export { PPDBAlurGelombangPage } from './PPDBAlurGelombangPage';
+export { PPDBLoginPage } from './PPDBLoginPage';
+export { AdminCMSPage } from './AdminCMSPage';

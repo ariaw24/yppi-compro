@@ -1,0 +1,10 @@
+{
+  "description": "This modern school profile website serves as an information hub for SMP YPPI Ar Rahmah, offering insights into academic programs, student activities, and admission details for parents and prospective students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
